@@ -1,0 +1,37 @@
+.product_card {
+    box-shadow: 0px 13px 21px -5px rgba(0, 0, 0, 0.3);
+    border: none;
+    border-radius: initial;
+    .product_image {
+        min-height: 120px;
+        img {
+            width: 50%;
+        }
+    }
+
+    .product_body {
+        height: 200px;
+    }
+
+    &:hover {
+        cursor: pointer;
+        transform: scale(1.1);
+        -webkit-transition: all 2s;
+        transition: all 2s;
+        overflow: hidden;
+    }
+}
+
+.product_wrapper {
+    background: #eee;
+
+}
+
+.product_title {
+    border: 1px solid black;
+    padding: 5px 20px 5px 20px;
+}
+
+.hub_title {
+    color: #007bff;
+}
