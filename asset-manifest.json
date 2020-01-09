@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Product-catalog-deploy/static/css/main.d7a99429.chunk.css",
+    "main.js": "/Product-catalog-deploy/static/js/main.1a8b53da.chunk.js",
+    "main.js.map": "/Product-catalog-deploy/static/js/main.1a8b53da.chunk.js.map",
+    "runtime-main.js": "/Product-catalog-deploy/static/js/runtime-main.f9db8b66.js",
+    "runtime-main.js.map": "/Product-catalog-deploy/static/js/runtime-main.f9db8b66.js.map",
+    "static/js/2.77d203de.chunk.js": "/Product-catalog-deploy/static/js/2.77d203de.chunk.js",
+    "static/js/2.77d203de.chunk.js.map": "/Product-catalog-deploy/static/js/2.77d203de.chunk.js.map",
+    "index.html": "/Product-catalog-deploy/index.html",
+    "precache-manifest.79c413cb27ba2edb2155f33c60555901.js": "/Product-catalog-deploy/precache-manifest.79c413cb27ba2edb2155f33c60555901.js",
+    "service-worker.js": "/Product-catalog-deploy/service-worker.js",
+    "static/css/main.d7a99429.chunk.css.map": "/Product-catalog-deploy/static/css/main.d7a99429.chunk.css.map",
+    "static/js/2.77d203de.chunk.js.LICENSE": "/Product-catalog-deploy/static/js/2.77d203de.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9db8b66.js",
+    "static/js/2.77d203de.chunk.js",
+    "static/css/main.d7a99429.chunk.css",
+    "static/js/main.1a8b53da.chunk.js"
+  ]
+}
